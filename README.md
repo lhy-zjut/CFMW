@@ -13,6 +13,9 @@
   <a href="https://huggingface.co/datasets/lhy-zju/SWVI/tree/main" target='_blank'>
     <img src="https://img.shields.io/badge/SWVI-Dataset-blue">
   </a>
+  <a href="https://github.com/lhy-zjut/CFMW/" target='_blank'>
+    <img src="https://img.shields.io/github/stars/lhy-zjut/CFMW?style=social">
+  </a>
 </p>
 </div>
 
