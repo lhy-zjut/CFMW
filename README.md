@@ -3,7 +3,7 @@
 <h1 align="center"><strong>CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions</strong></h1>
 <b>Haoyuan Li, Qi Hu, Binjia Zhou, You Yao, Jiacheng Lin, Kailun Yang<sup>*</sup>, Peng Chen<sup>*</sup></b>
 
-<b>Zhejiang University of Technology, Hunan University, Zhejiang University</b>
+<b>Zhejiang University of Technology, Hunan University, Zhejiang University, University of South California</b>
 <p align="center">
   <a href="https://arxiv.org/pdf/2404.16302" target='_**blank**'>
     <img src="https://img.shields.io/badge/CFMW-ArXiv-red?">
