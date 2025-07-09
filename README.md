@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center"><strong>CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions</strong></h1>
+<h1 align="center"><strong>CFMW: Cross-modality Fusion Mamba for Robust Object Detection under Adverse Weather</strong></h1>
 <b>Haoyuan Li, Qi Hu, Binjia Zhou, You Yao, Jiacheng Lin, Kailun Yang<sup>*</sup>, Peng Chen<sup>*</sup></b>
 
 <b><sup>*</sup>corresponding authors</b>
@@ -42,9 +42,9 @@ If you find our work and this codebase helpful, please consider starring this re
 
 ```bibtex
 @article{li2024cfmw,
-  title={Cfmw: Cross-modality fusion mamba for multispectral object detection under adverse weather conditions},
+  title={Cfmw: Cross-modality fusion mamba for robust object detection under adverse weather},
   author={Li, Haoyuan and Hu, Qi and Zhou, Binjia and Yao, You and Lin, Jiacheng and Yang, Kailun and Chen, Peng},
-  journal={arXiv preprint arXiv:2404.16302},
+  journal={arXiv preprint arXiv:2404.16302v2},
   year={2024}
 }
 ```
