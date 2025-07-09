@@ -4,7 +4,6 @@
 <b>Haoyuan Li, Qi Hu, Binjia Zhou, You Yao, Jiacheng Lin, Kailun Yang<sup>*</sup>, Peng Chen<sup>*</sup></b>
 
 <b>Zhejiang University of Technology, Hunan University, Zhejiang University, University of South California</b>
-
 <b><sup>*</sup>corresponding authors</b>
 <p align="center">
   <a href="https://arxiv.org/pdf/2404.16302" target='_**blank**'>
