@@ -41,3 +41,9 @@ If you find our work and this codebase helpful, please consider starring this re
   year={2024}
 }
 ```
+
+## 👏 Acknowledgements
+- [YOLOv5](https://github.com/ultralytics/yolov5)
+- [CFT](https://github.com/DocF/multispectral-object-detection)
+- [Vison Mamba](https://github.com/hustvl/Vim)
+- [WeatherDiffusion](https://github.com/IGITUGraz/WeatherDiffusion)
