@@ -40,7 +40,7 @@ If you find our work and this codebase helpful, please consider starring this re
 ```bibtex
 @article{li2024cfmw,
   title={Cfmw: Cross-modality fusion mamba for multispectral object detection under adverse weather conditions},
-  author={Li, Haoyuan and Hu, Qi and Yao, You and Yang, Kailun and Chen, Peng},
+  author={Li, Haoyuan and Hu, Qi and Zhou, Binjia and Yao, You and Lin, Jiacheng and Yang, Kailun and Chen, Peng},
   journal={arXiv preprint arXiv:2404.16302},
   year={2024}
 }
