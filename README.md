@@ -12,8 +12,14 @@
 
 ## 🔍 Overview
 
-<h1 align="center"><img src="pictures/main_pipeline_00.png" align="center" width="90%"></h1>
+### Model
+<h1 align="center"><img src="pictures/main_pipeline_00.png" align="center" width="100%"></h1>
 </p>
+
+### Demo
+<h1 align="center"><img src="pictures/picture4.png" align="center" width="100%"></h1>
+</p>
+
 
 ## 🏠 About
 
