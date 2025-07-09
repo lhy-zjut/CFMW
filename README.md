@@ -1,7 +1,7 @@
+<div align="center">
 
-<p align="center">
 <h1 align="center"><strong>CFMW: Cross-modality Fusion Mamba for Multispectral Object Detection under Adverse Weather Conditions</strong></h1>
-[**Haoyuan Li**] · [**Qi Hu**] · [**Binjia Zhou**] · [**You Yao**] · [**Jiacheng Lin**] · [**Kailun Yang<sup>*</sup>**] · [**Peng Chen<sup>*</sup>**] ·
+<b>Haoyuan Li · Qi Hu · Binjia Zhou · You Yao · Jiacheng Lin · Kailun Yang<sup>*</sup> · Peng Chen<sup>*</sup></b>
 <p align="center">
   <a href="https://arxiv.org/pdf/2404.16302" target='_**blank**'>
     <img src="https://img.shields.io/badge/CFMW-ArXiv-red?">
@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/SWVI-Dataset-blue">
   </a>
 </p>
+</div>
 
 ## 🔍 Overview
 
