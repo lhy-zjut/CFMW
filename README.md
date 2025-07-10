@@ -25,7 +25,7 @@
 
 ### Dataset
 <h1 align="center"><img src="pictures/picture3_00.png" align="center" width="70%"></h1>
-</p>
+
 
 ### Data Preparation
 1. Download the four compressed files [here](https://huggingface.co/datasets/lhy-zju/SWVI/tree/main). They require about 20GB of storage space.
@@ -34,6 +34,7 @@
 cat SWVI.* > SWVI.zip
 unzip SWVI.zip
 ```
+</p>
 
 ### Demo
 <h1 align="center"><img src="pictures/picture4_00.png" align="center" width="100%"></h1>
