@@ -27,6 +27,14 @@
 <h1 align="center"><img src="pictures/picture3_00.png" align="center" width="70%"></h1>
 </p>
 
+### Data Preparation
+1. Download the four compressed files [here](https://huggingface.co/datasets/lhy-zju/SWVI/tree/main). They require about 20GB of storage space.
+2. Run the following command to merge the two files into one and uncompress it. This will produce a folder named `SWVI` containing 60K visible images, infrared images and visible images with weather-influence. 
+```bash
+cat SWVI.* > SWVI.zip
+unzip SWVI.zip
+```
+
 ### Demo
 <h1 align="center"><img src="pictures/picture4_00.png" align="center" width="100%"></h1>
 </p>
