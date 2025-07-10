@@ -41,12 +41,12 @@ In this work, we propose the Cross-modality Fusion Mamba with Weather-removal (C
 If you find our work and this codebase helpful, please consider starring this repo 🌟 and cite:
 
 ```bibtex
-@article{li2024cfmw,
-  title={Cfmw: Cross-modality fusion mamba for robust object detection under adverse weather},
-  author={Li, Haoyuan and Hu, Qi and Zhou, Binjia and Yao, You and Lin, Jiacheng and Yang, Kailun and Chen, Peng},
-  journal={arXiv preprint arXiv:2404.16302v2},
-  year={2024}
-}
+@ARTICLE{11077409,
+  author={Li, Haoyuan and Hu, Qi and Zhou, Binjia and Yao, You and Lin, Jiacheng and Yang, Kailun and Chen1, Peng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={CFMW: Cross-modality Fusion Mamba for Robust Object Detection under Adverse Weather}, 
+  year={2025},
+  doi={10.1109/TCSVT.2025.3587918}}
 ```
 
 ## 👏 Acknowledgements
