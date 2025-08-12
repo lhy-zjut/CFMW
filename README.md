@@ -59,6 +59,7 @@ pip install -e mamba-1p1p1
 
 #### Training 
 ```
+cd PADM/
 python train_diffusion.py
 ```
 
