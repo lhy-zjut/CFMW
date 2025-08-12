@@ -36,6 +36,18 @@ unzip SWVI.zip
 ```
 </p>
 
+### Environment Preparation
+
+conda create -n your_env_name python=3.8 -y
+
+pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
+
+pip install -r requirements.txt
+
+pip install -e causal_conv1d>=1.1.0
+
+pip install -e mamba-1p1p1
+
 ### Demo
 <h1 align="center"><img src="pictures/picture4_00.png" align="center" width="100%"></h1>
 </p>
