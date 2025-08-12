@@ -255,5 +255,5 @@ if __name__ == '__main__':
                 detect(opt=opt)
                 strip_optimizer(opt.weights)
         else:
-            print("helloxxxxxxxxxxxxxxxxxxxx")
+            print("hello")
             detect(opt=opt)
