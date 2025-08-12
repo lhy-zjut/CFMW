@@ -1259,11 +1259,6 @@ class GPT(nn.Module):
         self.cross_modal_mamba = nn.Sequential(*[CrossMamba(d_model)for layer in range(n_layer)])
         self.swap_mamba = TokenSwapMamba(d_model)
 
-
-        # # transformer
-        # self.trans_blocks = nn.Sequential(*[myTransformerBlock(d_model, d_k, d_v, h, block_exp, attn_pdrop, resid_pdrop)
-        #                                     for layer in range(n_layer)])
-
         # decoder head
         self.ln_f = nn.LayerNorm(self.n_embd)
 
