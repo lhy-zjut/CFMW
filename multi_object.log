@@ -1,0 +1,185 @@
+2025-01-09 20:24:32 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-09 20:24:32 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-09 20:24:32 - DEBUG - interactive is False
+2025-01-09 20:24:32 - DEBUG - platform is linux
+2025-01-09 20:24:32 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-09 20:24:32 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-09 20:24:33 - DEBUG - Loaded backend agg version v2.2.
+2025-01-09 20:24:33 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CUDA:0 (NVIDIA GeForce RTX 4090, 24217.3125MB)
+
+2025-01-09 20:24:34 - INFO - Fusing layers... 
+2025-01-09 20:24:35 - INFO - Model Summary: 1015 layers, 206198710 parameters, 0 gradients
+2025-01-09 20:24:35 - INFO - runs/detect/exp65/1_rgb.png
+2025-01-09 20:24:35 - INFO - runs/detect/exp65/105_rgb.png
+2025-01-09 20:24:36 - INFO - runs/detect/exp65/1348_rgb.png
+2025-01-09 20:24:36 - INFO - runs/detect/exp65/1398_rgb.png
+2025-01-09 20:24:36 - INFO - runs/detect/exp65/3_rgb.png
+2025-01-09 20:24:36 - INFO - runs/detect/exp65/345_rgb.png
+2025-01-09 20:24:37 - INFO - runs/detect/exp65/56_rgb.png
+2025-01-09 20:24:37 - INFO - runs/detect/exp65/581_rgb.png
+2025-01-09 20:24:37 - INFO - runs/detect/exp65/583_rgb.png
+2025-01-09 20:24:37 - INFO - runs/detect/exp65/595_rgb.png
+2025-01-09 20:24:37 - INFO - runs/detect/exp65/633_rgb.png
+2025-01-09 20:24:37 - INFO - runs/detect/exp65/635_rgb.png
+2025-01-09 20:24:37 - INFO - runs/detect/exp65/637_rgb.png
+2025-01-09 20:24:38 - INFO - runs/detect/exp65/7_rgb.png
+2025-01-09 20:24:38 - INFO - runs/detect/exp65/796_rgb.png
+2025-01-09 20:24:39 - INFO - runs/detect/exp65/855_rgb.png
+2025-01-09 20:24:39 - INFO - runs/detect/exp65/959_rgb.png
+2025-01-09 20:28:40 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-09 20:28:40 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-09 20:28:40 - DEBUG - interactive is False
+2025-01-09 20:28:40 - DEBUG - platform is linux
+2025-01-09 20:28:40 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-09 20:28:40 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-09 20:28:41 - DEBUG - Loaded backend agg version v2.2.
+2025-01-09 20:28:41 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CUDA:0 (NVIDIA GeForce RTX 4090, 24217.3125MB)
+
+2025-01-09 20:28:42 - INFO - Fusing layers... 
+2025-01-09 20:28:43 - INFO - Model Summary: 1015 layers, 206198710 parameters, 0 gradients
+2025-01-09 20:28:44 - INFO - runs/detect/exp65/1515_rgb.png
+2025-01-09 20:30:10 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-09 20:30:10 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-09 20:30:10 - DEBUG - interactive is False
+2025-01-09 20:30:10 - DEBUG - platform is linux
+2025-01-09 20:30:10 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-09 20:30:10 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-09 20:30:11 - DEBUG - Loaded backend agg version v2.2.
+2025-01-09 20:30:11 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CUDA:0 (NVIDIA GeForce RTX 4090, 24217.3125MB)
+
+2025-01-09 20:30:12 - INFO - Fusing layers... 
+2025-01-09 20:30:12 - INFO - Model Summary: 1015 layers, 206198710 parameters, 0 gradients
+2025-01-09 20:30:13 - INFO - runs/detect/exp66/1411_rgb.png
+2025-01-09 20:30:13 - INFO - runs/detect/exp66/1482_rgb.png
+2025-01-09 20:30:13 - INFO - runs/detect/exp66/1489_rgb.png
+2025-01-09 20:30:13 - INFO - runs/detect/exp66/1493_rgb.png
+2025-01-09 20:30:13 - INFO - runs/detect/exp66/1515_rgb.png
+2025-01-09 20:30:14 - INFO - runs/detect/exp66/1557_rgb.png
+2025-01-09 20:30:14 - INFO - runs/detect/exp66/1560_rgb.png
+2025-01-09 20:30:14 - INFO - runs/detect/exp66/1580_rgb.png
+2025-01-09 20:30:14 - INFO - runs/detect/exp66/1603_rgb.png
+2025-01-09 20:32:45 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-09 20:32:45 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-09 20:32:45 - DEBUG - interactive is False
+2025-01-09 20:32:45 - DEBUG - platform is linux
+2025-01-09 20:32:45 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-09 20:32:45 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-09 20:32:46 - DEBUG - Loaded backend agg version v2.2.
+2025-01-09 20:32:46 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CUDA:0 (NVIDIA GeForce RTX 4090, 24217.3125MB)
+
+2025-01-09 20:32:46 - DEBUG - Starting new HTTPS connection (1): api.github.com:443
+2025-01-09 20:32:47 - DEBUG - https://api.github.com:443 "GET /repos/ultralytics/yolov5/releases/latest HTTP/1.1" 200 None
+2025-01-09 20:33:06 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-09 20:33:06 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-09 20:33:06 - DEBUG - interactive is False
+2025-01-09 20:33:06 - DEBUG - platform is linux
+2025-01-09 20:33:06 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-09 20:33:06 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-09 20:33:07 - DEBUG - Loaded backend agg version v2.2.
+2025-01-09 20:33:07 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CUDA:0 (NVIDIA GeForce RTX 4090, 24217.3125MB)
+
+2025-01-09 20:33:07 - INFO - Fusing layers... 
+2025-01-09 20:33:08 - INFO - Model Summary: 634 layers, 73669576 parameters, 0 gradients
+2025-01-09 20:33:26 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-09 20:33:26 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-09 20:33:26 - DEBUG - interactive is False
+2025-01-09 20:33:26 - DEBUG - platform is linux
+2025-01-09 20:33:26 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-09 20:33:26 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-09 20:33:27 - DEBUG - Loaded backend agg version v2.2.
+2025-01-09 20:33:28 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CUDA:0 (NVIDIA GeForce RTX 4090, 24217.3125MB)
+
+2025-01-09 20:33:28 - INFO - Fusing layers... 
+2025-01-09 20:33:29 - INFO - Model Summary: 634 layers, 73669576 parameters, 0 gradients
+2025-01-09 20:33:29 - INFO - runs/detect/exp69/345_rgb.png
+2025-01-09 20:38:22 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-09 20:38:22 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-09 20:38:22 - DEBUG - interactive is False
+2025-01-09 20:38:22 - DEBUG - platform is linux
+2025-01-09 20:38:22 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-09 20:38:22 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-09 20:38:23 - DEBUG - Loaded backend agg version v2.2.
+2025-01-09 20:38:23 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CUDA:0 (NVIDIA GeForce RTX 4090, 24217.3125MB)
+
+2025-01-09 20:38:24 - INFO - Fusing layers... 
+2025-01-09 20:38:24 - INFO - Model Summary: 634 layers, 73669576 parameters, 0 gradients
+2025-01-09 20:38:25 - INFO - runs/detect/exp70/345_rgb.png
+2025-01-09 20:39:10 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-09 20:39:10 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-09 20:39:10 - DEBUG - interactive is False
+2025-01-09 20:39:10 - DEBUG - platform is linux
+2025-01-09 20:39:10 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-09 20:39:10 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-09 20:39:11 - DEBUG - Loaded backend agg version v2.2.
+2025-01-09 20:39:11 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CUDA:0 (NVIDIA GeForce RTX 4090, 24217.3125MB)
+
+2025-01-09 20:39:12 - INFO - Fusing layers... 
+2025-01-09 20:39:12 - INFO - Model Summary: 634 layers, 73669576 parameters, 0 gradients
+2025-01-09 20:39:13 - INFO - runs/detect/exp71/345_rgb.png
+2025-01-09 20:39:59 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-09 20:39:59 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-09 20:39:59 - DEBUG - interactive is False
+2025-01-09 20:39:59 - DEBUG - platform is linux
+2025-01-09 20:39:59 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-09 20:39:59 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-09 20:40:00 - DEBUG - Loaded backend agg version v2.2.
+2025-01-09 20:40:00 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CUDA:0 (NVIDIA GeForce RTX 4090, 24217.3125MB)
+
+2025-01-09 20:40:01 - INFO - Fusing layers... 
+2025-01-09 20:40:01 - INFO - Model Summary: 634 layers, 73669576 parameters, 0 gradients
+2025-01-09 20:40:02 - INFO - runs/detect/exp70/345_rgb.png
+2025-01-09 20:40:16 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-09 20:40:16 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-09 20:40:16 - DEBUG - interactive is False
+2025-01-09 20:40:16 - DEBUG - platform is linux
+2025-01-09 20:40:16 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-09 20:40:16 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-09 20:40:17 - DEBUG - Loaded backend agg version v2.2.
+2025-01-09 20:40:17 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CUDA:0 (NVIDIA GeForce RTX 4090, 24217.3125MB)
+
+2025-01-09 20:40:17 - INFO - Fusing layers... 
+2025-01-09 20:40:18 - INFO - Model Summary: 634 layers, 73669576 parameters, 0 gradients
+2025-01-09 20:40:18 - INFO - runs/detect/exp71/345_rgb.png
+2025-01-10 19:58:54 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-10 19:58:54 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-10 19:58:54 - DEBUG - interactive is False
+2025-01-10 19:58:54 - DEBUG - platform is linux
+2025-01-10 19:58:55 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-10 19:58:55 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-10 19:58:55 - DEBUG - Loaded backend agg version v2.2.
+2025-01-10 20:41:18 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-10 20:41:18 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-10 20:41:18 - DEBUG - interactive is False
+2025-01-10 20:41:18 - DEBUG - platform is linux
+2025-01-10 20:41:18 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-10 20:41:18 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-10 20:41:19 - DEBUG - Loaded backend agg version v2.2.
+2025-01-10 20:41:19 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CPU
+
+2025-01-10 20:41:19 - INFO - Fusing layers... 
+2025-01-10 20:41:20 - INFO - Model Summary: 634 layers, 73669576 parameters, 0 gradients
+2025-01-10 20:41:21 - INFO - runs/detect/exp73/595_rgb.png
+2025-01-10 20:43:02 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-10 20:43:02 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-10 20:43:02 - DEBUG - interactive is False
+2025-01-10 20:43:02 - DEBUG - platform is linux
+2025-01-10 20:43:02 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-10 20:43:02 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-10 20:43:03 - DEBUG - Loaded backend agg version v2.2.
+2025-01-10 20:43:03 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CPU
+
+2025-01-10 20:43:03 - INFO - Fusing layers... 
+2025-01-10 20:43:04 - INFO - Model Summary: 634 layers, 73669576 parameters, 0 gradients
+2025-01-10 20:43:05 - INFO - runs/detect/exp74/595_rgb.png
+2025-01-10 20:43:39 - DEBUG - matplotlib data path: /mnt/data/lhy/anaconda3/envs/leo/lib/python3.8/site-packages/matplotlib/mpl-data
+2025-01-10 20:43:39 - DEBUG - CONFIGDIR=/root/.config/matplotlib
+2025-01-10 20:43:39 - DEBUG - interactive is False
+2025-01-10 20:43:39 - DEBUG - platform is linux
+2025-01-10 20:43:39 - DEBUG - CACHEDIR=/root/.cache/matplotlib
+2025-01-10 20:43:39 - DEBUG - Using fontManager instance from /root/.cache/matplotlib/fontlist-v330.json
+2025-01-10 20:43:39 - DEBUG - Loaded backend agg version v2.2.
+2025-01-10 20:43:40 - INFO - YOLOv5 🚀 fb591c9 torch 2.1.1+cu118 CPU
+
+2025-01-10 20:43:40 - INFO - Fusing layers... 
+2025-01-10 20:43:41 - INFO - Model Summary: 634 layers, 73669576 parameters, 0 gradients
+2025-01-10 20:43:41 - INFO - runs/detect/exp75/595_rgb.png
