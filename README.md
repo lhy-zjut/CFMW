@@ -17,6 +17,10 @@
 </p>
 </div>
 
+## 🏠 About
+
+In this work, we propose the Cross-modality Fusion Mamba with Weather-removal (CFMW) to augment stability and cost-effectiveness under adverse weather conditions. Leveraging the proposed Perturbation-Adaptive Diffusion Model (PADM) and Cross-modality Fusion Mamba (CFM) modules, CFMW is able to reconstruct visual features affected by adverse weather, enriching the representation of image details. To bridge the gap in relevant datasets, we construct a new Severe Weather Visible-Infrared (SWVI) dataset, encompassing diverse adverse weather scenarios such as rain, haze, and snow.
+
 ## 🔍 Overview
 
 ### Model
@@ -38,6 +42,7 @@ unzip SWVI.zip
 
 ### Environment Preparation
 
+```
 conda create -n your_env_name python=3.8 -y
 
 pip install torch==2.1.1 torchvision==0.16.1 torchaudio==2.1.1 --index-url https://download.pytorch.org/whl/cu118
@@ -47,15 +52,43 @@ pip install -r requirements.txt
 pip install -e causal_conv1d>=1.1.0
 
 pip install -e mamba-1p1p1
+```
+
+## Run
+### PADM Pre-processing
+
+#### Training 
+```
+python train_diffusion.py
+```
+
+#### Inference
+```
+python eval_diffusion.py
+```
+
+### CFMW Detection
+
+#### Training
+```
+python train.py
+```
+
+#### Inference
+```
+python detect_twostram.py
+```
 
 ### Demo
 <h1 align="center"><img src="pictures/picture4_00.png" align="center" width="100%"></h1>
 </p>
 
+#### Evaluation
+```
+python test.py
+```
 
-## 🏠 About
 
-In this work, we propose the Cross-modality Fusion Mamba with Weather-removal (CFMW) to augment stability and cost-effectiveness under adverse weather conditions. Leveraging the proposed Perturbation-Adaptive Diffusion Model (PADM) and Cross-modality Fusion Mamba (CFM) modules, CFMW is able to reconstruct visual features affected by adverse weather, enriching the representation of image details. To bridge the gap in relevant datasets, we construct a new Severe Weather Visible-Infrared (SWVI) dataset, encompassing diverse adverse weather scenarios such as rain, haze, and snow.
 
 ## 🔗 Citation
 
