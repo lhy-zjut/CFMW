@@ -38,6 +38,35 @@ In this work, we propose the Cross-modality Fusion Mamba with Weather-removal (C
 cat SWVI.* > SWVI.zip
 unzip SWVI.zip
 ```
+
+#### Data Structure
+```
+SWVI/
+├── README.md
+└── infrared
+       ├── 03205.png
+       ├── 03206.png
+       ├── 03207.png
+       └── ...
+└── visible
+       ├── 03205.png
+       ├── 03206.png
+       ├── 03207.png
+       └── ...
+└── visible_with_weather
+       ├── 03205.png
+       ├── 03206.png
+       ├── 03207.png
+       └── ...
+└── labels
+       ├── 03205.txt
+       ├── 03206.txt
+       ├── 03207.txt
+       └── ...
+├── train.txt
+└── val.txt
+
+```
 </p>
 
 ### Environment Preparation
@@ -60,11 +89,13 @@ pip install -e mamba-1p1p1
 #### Training 
 ```
 cd PADM/
+export CUDA_VISIBLE_DEVICES=${CUDA_VISIBLE_DEVICES}
 python train_diffusion.py
 ```
 
 #### Inference
 ```
+cd PADM/
 python eval_diffusion.py
 ```
 
@@ -72,6 +103,7 @@ python eval_diffusion.py
 
 #### Training
 ```
+export CUDA_VISIBLE_DEVICES=${CUDA_VISIBLE_DEVICES}
 python train.py
 ```
 
@@ -97,7 +129,7 @@ If you find our work and this codebase helpful, please consider starring this re
 
 ```bibtex
 @ARTICLE{11077409,
-  author={Li, Haoyuan and Hu, Qi and Zhou, Binjia and Yao, You and Lin, Jiacheng and Yang, Kailun and Chen1, Peng},
+  author={Li, Haoyuan and Hu, Qi and Zhou, Binjia and Yao, You and Lin, Jiacheng and Yang, Kailun and Chen, Peng},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
   title={CFMW: Cross-modality Fusion Mamba for Robust Object Detection under Adverse Weather}, 
   year={2025},
