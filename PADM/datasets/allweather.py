@@ -9,7 +9,6 @@ import PIL
 import re
 import random
 
-
 class AllWeather:
     def __init__(self, config):
         self.config = config
