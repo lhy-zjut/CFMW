@@ -1352,7 +1352,7 @@ class GPT(nn.Module):
         x = x.view(bs, 2, self.vert_anchors, self.horz_anchors, self.n_embd)
         x = x.permute(0, 1, 4, 2, 3)  # dim:(B, 2, C, H, W)
 
-        # 这样截取的方式, 是否采用映射的方式更加合理？
+        
         rgb_fea_out = x[:, 0, :, :, :].contiguous().view(bs, self.n_embd, self.vert_anchors, self.horz_anchors)
         ir_fea_out = x[:, 1, :, :, :].contiguous().view(bs, self.n_embd, self.vert_anchors, self.horz_anchors)
 
