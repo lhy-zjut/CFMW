@@ -1256,32 +1256,6 @@ class GPT(nn.Module):
         # positional embedding parameter (learnable), rgb_fea + ir_fea
         self.pos_emb = nn.Parameter(torch.zeros(1, 2 * vert_anchors * horz_anchors, self.n_embd))
 
-        # # vision mamba
-        # factory_kwargs = {"device": device, "dtype": dtype}
-        # kwargs.update(factory_kwargs)        # add factory_kwargs into kwargs
-        # dpr = [x.item() for x in torch.linspace(0, attn_pdrop, n_layer)]  # stochastic depth decay rule
-        # inter_dpr = [0.0] + dpr
-        # self.drop_path = DropPath(attn_pdrop) if attn_pdrop > 0. else nn.Identity()
-        # self.trans_blocks = nn.Sequential(*[create_block(
-        #                                         d_model,
-        #                                         ssm_cfg=None,
-        #                                         norm_epsilon=norm_epsilon,
-        #                                         rms_norm=True,
-        #                                         residual_in_fp32=True,
-        #                                         fused_add_norm=True,
-        #                                         layer_idx=layer,
-        #                                         if_bimamba=False,
-        #                                         bimamba_type="v2",
-        #                                         drop_path=inter_dpr[layer],
-        #                                         if_devide_out=True,
-        #                                         init_layer_scale=None,
-        #                                         **factory_kwargs,
-        #                                     )
-        #                                     for layer in range(n_layer)])
-
-
-
-        # pan_mamba
         self.cross_modal_mamba = nn.Sequential(*[CrossMamba(d_model)for layer in range(n_layer)])
         self.swap_mamba = TokenSwapMamba(d_model)
 
