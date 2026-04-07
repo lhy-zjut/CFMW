@@ -131,8 +131,11 @@ If you find our work and this codebase helpful, please consider starring this re
 @ARTICLE{11077409,
   author={Li, Haoyuan and Hu, Qi and Zhou, Binjia and Yao, You and Lin, Jiacheng and Yang, Kailun and Chen, Peng},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
-  title={CFMW: Cross-modality Fusion Mamba for Robust Object Detection under Adverse Weather}, 
+  title={CFMW: Cross-Modality Fusion Mamba for Robust Object Detection Under Adverse Weather}, 
   year={2025},
+  volume={35},
+  number={12},
+  pages={12066-12081},
   doi={10.1109/TCSVT.2025.3587918}}
 ```
 
